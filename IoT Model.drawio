@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T11:22:06.340Z" agent="5.0 (Windows)" version="20.7.4" etag="vgsiUhtbBPYj30U-XrU4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T11:25:00.817Z" agent="5.0 (Windows)" version="20.7.4" etag="iYlaZUAl7kLAzabKUt3K" type="github">
   <diagram id="4JYAmUSUueVOihFpDrWb" name="Page-1">
-    <mxGraphModel dx="2667" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2138" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,6 +274,18 @@
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-113" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;PROTOCOL&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-493" y="319.85" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-114" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;BUZZER&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-352.68" y="410" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-115" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;SERVO MOTOR&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-636.44" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-116" value="&lt;h3 style=&quot;font-size: 10px; line-height: 30%;&quot;&gt;ULTRASONIC&lt;/h3&gt;&lt;div style=&quot;line-height: 30%;&quot;&gt;&lt;h3 style=&quot;font-size: 10px; line-height: 30%;&quot;&gt;SENSOR&lt;br&gt;&lt;/h3&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-537.86" y="557.22" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-117" value="&lt;h3 style=&quot;font-size: 10px; line-height: 30%;&quot;&gt;LDR SENSOR&lt;/h3&gt;&lt;div&gt;&lt;h3 style=&quot;font-size: 10px; line-height: 30%;&quot;&gt;MODULE&lt;/h3&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="557.22" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
