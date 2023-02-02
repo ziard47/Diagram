@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T11:15:44.017Z" agent="5.0 (Windows)" version="20.7.4" etag="NtR15nC7pOegHxm-mtTo" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T11:16:23.213Z" agent="5.0 (Windows)" version="20.7.4" etag="p94AQp77m2a5e2GcXAoq" type="github">
   <diagram id="4JYAmUSUueVOihFpDrWb" name="Page-1">
     <mxGraphModel dx="2128" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,6 +253,9 @@
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-105" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.hivemq.com/img/blog/mqtt-logo.jpg;clipPath=inset(28.76% 17% 23.45% 15.33%);" vertex="1" parent="1">
           <mxGeometry x="-603.24" y="257.8" width="36.47" height="9.7" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-106" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.hivemq.com/img/blog/mqtt-logo.jpg;clipPath=inset(28.76% 17% 23.45% 15.33%);" vertex="1" parent="1">
+          <mxGeometry x="-530.75" y="340" width="36.47" height="9.7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
