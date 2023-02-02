@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T10:52:24.722Z" agent="5.0 (Windows)" version="20.7.4" etag="DK5_vLCEI7G2pJ3Xtnln" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T10:54:22.845Z" agent="5.0 (Windows)" version="20.7.4" etag="WibQRpnn05vTcli8rksy" type="github">
   <diagram id="4JYAmUSUueVOihFpDrWb" name="Page-1">
-    <mxGraphModel dx="1595" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="93" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,6 +79,19 @@
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.cytron.io/image/cache/catalog/products/DS-LED/5mm%20red-800x800.jpg;clipPath=inset(10.67% 15.33% 10.67% 15.67%);" vertex="1" parent="1">
           <mxGeometry x="-648.48" y="447.58000000000004" width="22.99" height="26.21" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4elDIDGCFrm7-RhE7Nb_-37" target="4elDIDGCFrm7-RhE7Nb_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-540" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://grobotronics.com/images/detailed/123/esp32-4-1_grobo.jpg;clipPath=inset(17.67% 7% 22% 7.33%);" vertex="1" parent="1">
+          <mxGeometry x="-729.04" y="242.5" width="78.09" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
