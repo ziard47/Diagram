@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T11:27:31.453Z" agent="5.0 (Windows)" version="20.7.4" etag="-K6jGRlCZBX10ff5cGoj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T11:29:10.526Z" agent="5.0 (Windows)" version="20.7.4" etag="iurL2xjBtgDF_k8f_2I3" type="github">
   <diagram id="4JYAmUSUueVOihFpDrWb" name="Page-1">
-    <mxGraphModel dx="2715" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2582" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,6 +304,15 @@
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-123" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;CLOUD IOT PLATFORM&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-159.09000000000003" y="46.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-124" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;SAVE DATA&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-351.90000000000003" y="168.17000000000002" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-125" value="&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;DATA &lt;br&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;ANALYSIS&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-294.12" y="267.5" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-126" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;REPORT&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340.34000000000003" y="370" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
