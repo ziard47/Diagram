@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T11:01:56.907Z" agent="5.0 (Windows)" version="20.7.4" etag="HtV74Rw3jlr3-ROMnio-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T11:04:05.506Z" agent="5.0 (Windows)" version="20.7.4" etag="YenVzgeMIpt4mAT9GKWF" type="github">
   <diagram id="4JYAmUSUueVOihFpDrWb" name="Page-1">
-    <mxGraphModel dx="2291" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2082" dy="221" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,11 +147,29 @@
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-446.25" y="156.5" width="78.1" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4elDIDGCFrm7-RhE7Nb_-59" target="4elDIDGCFrm7-RhE7Nb_-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-335.35" y="200" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_58-512.png;" vertex="1" parent="1">
           <mxGeometry x="-330.34999999999997" y="202.49" width="40.01" height="40.01" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4elDIDGCFrm7-RhE7Nb_-64" target="4elDIDGCFrm7-RhE7Nb_-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-335.35" y="270" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://image-prod.kigyolog.com/contents/tool/71b3e70e4054421e0d13492594724c8a.jpg;clipPath=inset(18.4% 19.2% 11.6% 24%);" vertex="1" parent="1">
+          <mxGeometry x="-326.58" y="272.5" width="32.457142857142856" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-335.34" y="340" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/thumbs/report-icon/call-report-icon-3.png;" vertex="1" parent="1">
+          <mxGeometry x="-330.34000000000003" y="342.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
