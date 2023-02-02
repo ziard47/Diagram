@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T11:04:05.506Z" agent="5.0 (Windows)" version="20.7.4" etag="YenVzgeMIpt4mAT9GKWF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T11:07:29.121Z" agent="5.0 (Windows)" version="20.7.4" etag="bPK5XUvXR6A-VH1vk2VT" type="github">
   <diagram id="4JYAmUSUueVOihFpDrWb" name="Page-1">
-    <mxGraphModel dx="2082" dy="221" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2479" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,6 +170,45 @@
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/thumbs/report-icon/call-report-icon-3.png;" vertex="1" parent="1">
           <mxGeometry x="-330.34000000000003" y="342.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4elDIDGCFrm7-RhE7Nb_-76" target="4elDIDGCFrm7-RhE7Nb_-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="4elDIDGCFrm7-RhE7Nb_-76" target="4elDIDGCFrm7-RhE7Nb_-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-133.75" y="84" width="78.1" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="156.5" width="78.1" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4elDIDGCFrm7-RhE7Nb_-80" target="4elDIDGCFrm7-RhE7Nb_-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-119.10000000000002" y="197.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-81" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn3.iconfinder.com/data/icons/ui-outline-1/100/ui_58-512.png;" vertex="1" parent="1">
+          <mxGeometry x="-114.09999999999997" y="199.99" width="40.01" height="40.01" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="4elDIDGCFrm7-RhE7Nb_-83" target="4elDIDGCFrm7-RhE7Nb_-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-119.10000000000002" y="267.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://image-prod.kigyolog.com/contents/tool/71b3e70e4054421e0d13492594724c8a.jpg;clipPath=inset(18.4% 19.2% 11.6% 24%);" vertex="1" parent="1">
+          <mxGeometry x="-110.32999999999998" y="270" width="32.457142857142856" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-119.08999999999997" y="337.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-86" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/thumbs/report-icon/call-report-icon-3.png;" vertex="1" parent="1">
+          <mxGeometry x="-114.09000000000003" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.iotwonderland.com/img/logos/cayenne.png;" vertex="1" parent="1">
+          <mxGeometry x="-127.19999999999999" y="86.5" width="65" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
