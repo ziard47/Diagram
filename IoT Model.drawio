@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T13:13:10.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1660.12" etag="P4zDGAcPzf-Gl2-KWvSH" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T13:14:17.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1660.12" etag="UfOLJuJ6ytyeuyMQeKe6" version="20.8.20" type="github">
   <diagram id="4JYAmUSUueVOihFpDrWb" name="Page-1">
-    <mxGraphModel dx="2262" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2697" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,20 +284,20 @@
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-119" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Internet&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-443" y="255" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-120" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;VISUALISE&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-447.2" y="182.5" width="80" height="50" as="geometry" />
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-120" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Visualize&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-442.2" y="182.5" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-121" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;VISUALISE&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="182.5" width="80" height="50" as="geometry" />
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-121" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Visualize&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-15" y="182.5" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-122" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;CLOUD IOT PLATFORM&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-368.15000000000003" y="46.5" width="130" height="50" as="geometry" />
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-122" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Cloud IoT Platform&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-358.15000000000003" y="46.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-123" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;CLOUD IOT PLATFORM&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-159.09000000000003" y="46.5" width="130" height="50" as="geometry" />
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-123" value="&lt;h3 style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Cloud IoT Platform&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-152.09000000000003" y="46.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-124" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;SAVE DATA&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-351.90000000000003" y="168.17000000000002" width="80" height="50" as="geometry" />
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-124" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Save Data&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-346.90000000000003" y="168.17000000000002" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-125" value="&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;Data&amp;nbsp;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;Analysis&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-289.12" y="267.5" width="60" height="50" as="geometry" />
@@ -305,14 +305,14 @@
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-126" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Report&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-340.34000000000003" y="370" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-127" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;REPORT&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-127" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Report&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-124.70000000000005" y="370" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-128" value="&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;DATA &lt;br&gt;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;ANALYSIS&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-74.09" y="267.5" width="70" height="50" as="geometry" />
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-128" value="&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;Data&amp;nbsp;&lt;/h3&gt;&lt;h3 style=&quot;font-size: 10px; line-height: 40%;&quot;&gt;Analysis&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-69.09" y="267.5" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4elDIDGCFrm7-RhE7Nb_-129" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;SAVE DATA&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-135.65000000000003" y="166.17000000000002" width="80" height="50" as="geometry" />
+        <mxCell id="4elDIDGCFrm7-RhE7Nb_-129" value="&lt;h3 style=&quot;font-size: 10px;&quot;&gt;Save Data&lt;br&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-130.65000000000003" y="166.17000000000002" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4elDIDGCFrm7-RhE7Nb_-134" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/1317/1317755.png;" parent="1" vertex="1">
           <mxGeometry x="-328.34000000000003" y="344.5" width="36" height="36" as="geometry" />
