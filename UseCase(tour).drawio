@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T15:22:34.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="fAUrn3uFi8fhm90yM-jG" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T15:23:06.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="gjEF-wDB04V26rPBhSVE" version="21.3.2" type="github">
   <diagram name="Page-1" id="vw4qOiB6sFUQBZaOb9FN">
-    <mxGraphModel dx="1246" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2118" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="IT7poCYrvIr2AayS8IBe-40" value="Cancel Booking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="650" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IT7poCYrvIr2AayS8IBe-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="32.5" width="570" height="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
