@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T05:07:36.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="lxe2LSGNljiiNJ_Tpop0" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T05:07:50.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="nsvfAme7tYUJL9mMtKuk" version="21.3.8" type="github">
   <diagram name="Page-1" id="jherYyuSmHslmHkAxnRz">
     <mxGraphModel dx="1532" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8cO50c9kyX6im4mKYRGT-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.seekpng.com/png/full/13-137340_business-real-estate-organization-service-company-office-building.png;" parent="1" vertex="1">
-          <mxGeometry x="452" y="272" width="264.26" height="220" as="geometry" />
+          <mxGeometry x="480" y="300" width="189.79" height="158" as="geometry" />
         </mxCell>
         <mxCell id="8cO50c9kyX6im4mKYRGT-2" value="Organization" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="524" y="492" width="120.87" height="40" as="geometry" />
+          <mxGeometry x="524" y="450" width="120.87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPMBlFypGlAZXWWA99TD-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPMBlFypGlAZXWWA99TD-3" target="8cO50c9kyX6im4mKYRGT-1">
           <mxGeometry relative="1" as="geometry" />
