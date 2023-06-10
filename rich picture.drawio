@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T05:35:55.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="7peTpU97KkxtHCoE6-u4" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T05:37:33.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="OTgCNklUt93qKYk68VVP" version="21.3.8" type="github">
   <diagram name="Page-1" id="jherYyuSmHslmHkAxnRz">
-    <mxGraphModel dx="2583" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2701" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,19 +74,31 @@
           <mxGeometry x="160" y="324" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPMBlFypGlAZXWWA99TD-28" value="Add/delete/view Booking" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="335" y="520" width="250" height="40" as="geometry" />
+          <mxGeometry x="255" y="530" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPMBlFypGlAZXWWA99TD-29" value="Add/view Feedback" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="550" width="250" height="40" as="geometry" />
+          <mxGeometry x="250" y="560" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPMBlFypGlAZXWWA99TD-30" value="view Packages" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="580" width="250" height="40" as="geometry" />
+          <mxGeometry x="250" y="590" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPMBlFypGlAZXWWA99TD-31" value="view Hotels" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="610" width="250" height="40" as="geometry" />
+          <mxGeometry x="250" y="620" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPMBlFypGlAZXWWA99TD-32" value="Add /Update/Detele Packages" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="760" y="210" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vPMBlFypGlAZXWWA99TD-33" value="View Hotels" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730.1" y="450" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vPMBlFypGlAZXWWA99TD-34" value="Add Discounts" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="725.1" y="480" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vPMBlFypGlAZXWWA99TD-35" value="Facilities" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="725.1" y="510" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vPMBlFypGlAZXWWA99TD-36" value="View Feedbacks" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="725.1" y="540" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
